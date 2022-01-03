@@ -1,9 +1,4 @@
 # Islamic Prayers For All
-#### Video Demo:
-https://youtu.be/RZ1zPsX7z8Y
-### Description:
-For my CS50 final project, I have created a website called "Islamic Prayers for All." The website compiles the most common Islamic prayers with
-English translations and transliterations to help those who struggle with the Arabic language.
 ### How Does the Website Work?
 Islamic Prayers for All is extremely easy to use. Users only need to click on the name of page they would like to access, and they’ll be redirected to it.
 Users can also access transliterations of the Arabic prayers either by clicking on each “Transliterate” button accompanying certain Arabic prayers
